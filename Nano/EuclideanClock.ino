@@ -15,6 +15,18 @@ henry.keinala@tuta.io
 	<https://www.gnu.org/licenses/>.
 
     ------
+    
+This sketch allows the user to set an amount of steps, and an amount of notes to
+be distributed over them as evenly as possible. The program will write the pattern
+to a maximum of 8 LED pins, and a separate Trigger Output.
+
+Controls are as follows:
+
+Pot1 = Tempo
+Pot1 + Sw1 = Steps
+Pot1 + Sw2 = Notes
+Pot2 = Rotation
+Sw1 + Sw2 = Toggle cursor direction
 
 */
 
